@@ -12,7 +12,7 @@ function rand(min, max) {
 function App() {
   const [selected, setSelected] = useState(new Date());
   const [events, setEvents, addEvent, deleteEvent] = useArrayState();
-  const [lazyLog, setLazyLog, addLog, deleteLog] = useArrayState();
+  const [lazyLog, _setLazyLog, addLog, _deleteLog] = useArrayState();
   const [width, setWidth] = useState(window.innerWidth);
 
   useEffect(() => {
