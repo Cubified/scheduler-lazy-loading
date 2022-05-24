@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scheduler-stress-test/build/static/css/main.e6c13ad2.css",
+    "main.js": "/scheduler-stress-test/build/static/js/main.ecef2939.js",
+    "index.html": "/scheduler-stress-test/build/index.html",
+    "main.e6c13ad2.css.map": "/scheduler-stress-test/build/static/css/main.e6c13ad2.css.map",
+    "main.ecef2939.js.map": "/scheduler-stress-test/build/static/js/main.ecef2939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ecef2939.js"
+  ]
+}
